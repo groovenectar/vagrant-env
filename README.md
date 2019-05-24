@@ -11,10 +11,10 @@ This is a [Vagrant](http://www.vagrantup.com) plugin to load environment variabl
 Install the lastest version using standard vagrant plugin installation method:
 
 ```sh
-$ vagrant plugin install vagrant-env
+$ vagrant plugin install vagrant-readenv
 ```
 
-To install an older version of the plugin use `vagrant plugin install vagrant-env --plugin-version VERSION`
+To install an older version of the plugin use `vagrant plugin install vagrant-readenv --plugin-version VERSION`
 
 ## Usage
 
